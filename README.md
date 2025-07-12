@@ -1,16 +1,34 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chi-Son</h1>
+<h3 align="center">🚀 Aspiring Data/AI Engineer | Python | SQL | LeetCode Enthusiast</h3>
 
-<!--
-**Chi-Son/Chi-Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
 
-Here are some ideas to get you started:
+- 🎯 I'm passionate about **AI/ Data Engineering** and solving problems.
+- 💻 I love coding with **Python**, practicing on **LeetCode**, and building backend systems.
+- 📊 Currently exploring: **Pandas, SQL Optimization, AI , ML ...**
+### 🛠️ Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas)
+
+### 🔥 GitHub Stats
+
+![Chi-Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chi-Son&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chi-Son&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chi-Son&layout=compact&theme=radical)
+
+### 📊 LeetCode Performance
+
+> *Demonstrating consistent effort and problem-solving mindset:*
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/caosychison03?theme=dark&ext=contest)
+
+- ✅ Total Solved: (tự động cập nhật)
+- 💪 Consistently improving via contests
+- 💻 Languages: Python, SQL
+
+👉 View profile: [leetcode.com/u/caosychison03](https://leetcode.com/u/caosychison03)
