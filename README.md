@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Chi-Son</h1>
-<h3 align="center">🚀 Aspiring Data/AI Engineer | Python | SQL | LeetCode Enthusiast</h3>
+<h3 align="center">🚀 Aspiring Data/AI Engineer | Python | SQL </h3>
 
 ### 🧠 About Me
 
